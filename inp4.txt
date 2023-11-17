@@ -1,0 +1,59 @@
+Host: https://timkral.com/
+Category: Scholar Track
+In Progress: 4
+Updated: 17.11.2023 | 17:28
+
+   TBZ M-431
+
+Authors:
+ - Tim Kral
+ - Tim Nguyen
+ - Daniel Burger
+
+Abstract
+// TODO: Write Abstract
+
+Status of this Memo
+
+   This document is an 'In Progress' document.
+
+   Information about the status of this document may be obtained here:
+   https://timkral.com/mss/docs/index.txt
+
+Legal Notice
+
+   Copyright (c) 2023 Authors of this document.
+   All rights reserved.
+
+   This document is subject to the terms of service for any MSS document.
+
+   Information about the distribution and use of this document may be
+   obtained here: https://timkral.com/mss/docs/terms_of_service.txt
+
+
+
+Table of Contents
+
+   1. Introduction
+   2. Terminology
+
+
+
+1. Introduction
+
+   This project 
+// TODO: Update Introduction
+
+
+2. Terminology
+// TODO: Introduce Terminology
+
+
+3. Requirements (Game)
+
+   // TODO: Write Requirements
+
+
+4. Requirements (Graphics Engine)
+
+   // TODO: Write Requirements
